@@ -11,3 +11,5 @@ Tento repozitář obsahuje kódy přiložené k diplomové práci:
 &nbsp;&nbsp;&nbsp;&nbsp;Vedoucí práce: *Ing. Marie Sadowská, Ph.D.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;Datum odevzdání: *30.04.2025*
+
+Obsah repozitáře koresponduje s úlohami řešenými v práci.
