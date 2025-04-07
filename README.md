@@ -1,4 +1,6 @@
-# Tento repozitář obsahuje kódy přiložené k diplomové práci
+# Physics-Informed Neural Networks
+
+Tento repozitář obsahuje kódy přiložené k diplomové práci:
 
 Téma: **Physics-Informed Neural Networks pro stacionární a tranzientní úlohy**
 
